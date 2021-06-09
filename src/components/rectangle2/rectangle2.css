@@ -1,0 +1,81 @@
+.rect2-container {
+  width: 360px;
+  height: 645px;
+  margin-top: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+.box {
+  width: 360px;
+  height: 48px;
+  color: #020235;
+  font-size: 13px;
+}
+
+#box-text {
+  padding-left: 15px;
+}
+
+.share-btn {
+  color: blue;
+  font-size: 12px;
+  float: right;
+  margin-right: -50px;
+  margin-top: -14px;
+}
+
+.box2 {
+  width: 360px;
+  height: 143px;
+  display: flex;
+  flex-direction: row;
+}
+.box3 {
+  width: 360px;
+  height: 268px;
+}
+
+.options {
+  padding-top: 14px;
+  margin-left: 20px;
+}
+#more {
+  padding-right: 20px;
+}
+
+.inner {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-bottom: 15px;
+  margin-right: 25px;
+}
+.product {
+  margin-top: 10px;
+}
+
+.image {
+  width: 20%;
+  float: left;
+}
+.details {
+  margin-left: 20px;
+  margin-top: 0px;
+  float: right;
+  font-size: 10px;
+}
+
+.featured {
+  margin-top: 15px;
+  margin-left: 20px;
+}
+.products {
+  display: flex;
+}
+.product1 {
+  width: 50%;
+}
+.image2 {
+  width: 140px;
+  height: 140px;
+  margin-top: 15px;
+}
